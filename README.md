@@ -16,7 +16,7 @@ The dataset contains three parts with a total of 10231 images.
 
 
 
-**1. Synthetic datasetprovided by [Gonz´ alez et al.](https://github.com/Deepknowledge-US/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset), containing 2500 images.**
+**1. Synthetic datasetprovided by [Gonz´ alez et al.](https://deepknowledge-us.github.io/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset/), containing 2500 images.**
 ![Snipaste_2022-09-02_14-58-22](https://user-images.githubusercontent.com/51520993/188077465-cc221732-4cfc-4599-b4b0-ac7618769832.png)
 ![Snipaste_2022-09-02_14-58-29](https://user-images.githubusercontent.com/51520993/188077491-06376d5d-00c3-4bec-8e25-7f9e61c98777.png)
 
@@ -24,7 +24,7 @@ The dataset contains three parts with a total of 10231 images.
 ![Snipaste_2022-09-02_14-59-09](https://user-images.githubusercontent.com/51520993/188077588-fd45d19e-e888-4d2d-8e5a-d01a66db449e.png)
 ![Snipaste_2022-09-02_14-59-18](https://user-images.githubusercontent.com/51520993/188077609-950db2d1-9d80-4ecf-b803-ef09b1ed65d3.png)
 
-**3. CCTV gun detection dataset provided by [Gonz´ alez et al.](https://github.com/Deepknowledge-US/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset), containing 5149 images.**
+**3. CCTV gun detection dataset provided by [Gonz´ alez et al.](https://deepknowledge-us.github.io/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset/), containing 5149 images.**
 ![Snipaste_2022-09-02_14-58-48](https://user-images.githubusercontent.com/51520993/188077530-993dc808-d466-4b63-8673-006168d674d3.png)
 ![Snipaste_2022-09-02_14-59-00](https://user-images.githubusercontent.com/51520993/188077556-bdb3dece-8f39-4c62-a793-7596b4b6969f.png)
 
@@ -41,5 +41,5 @@ The annotation files in `txt` format are located in `VOCdevkit\VOC2007\Annotatio
 `txt` format annotation files are located in `VOCdevkit\VOC2007\Annotations`.
 
 # Thanks
-1. https://github.com/Deepknowledge-US/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset
+1. https://deepknowledge-us.github.io/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset/
 2. https://storage.googleapis.com/openimages/web/factsfigures.html
